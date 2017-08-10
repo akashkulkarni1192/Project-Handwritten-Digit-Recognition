@@ -5,8 +5,8 @@ Using MNIST dataset, recognizing digits through different ANN Models
 Prediction of digits using a set of 28x28 sized images of handwritten digits from Kaggle's Digit Recognizer dataset i.e MNIST dataset
 
 I solved the problem and applied the optimization techniques in following ways : 
-* ##### Multi-class logistic regression #####
-* ** ANN with stochastic gradient descent algorithm** 
+* #### Multi-class logistic regression ####
+* ** ANN with stochastic gradient descent algorithm ** 
 * ** ANN with batch gradient descent algorithm ** : Also implemented in theano.
 * ** ANN with batch gradient descent algorithm and momentum **
 * ** ANN with batch gradient descent algorithm and RMSProp ** : Implemented in tensorflow
