@@ -15,6 +15,7 @@ I solved the problem and applied the optimization techniques in following ways :
 
 I observed that with each subsequent model, there was an improve in accuracy and convergence time.
 
-### Models to try ###
+Models to try
+-------------
 * **ANN with batch gradient descent algorithm, nesterov momentum and RMSProp**
 * **CNN with few convolution-pooling layers on top of ANN model using LeNet architecture**
