@@ -1,7 +1,9 @@
-# Project-Handwritten-Digit-Recognition
+Project-Handwritten-Digit-Recognition
+=====================================
 Using MNIST dataset, recognizing digits through different ANN Models
 
-### Goal ### 
+Goal
+----
 Prediction of digits using a set of 28x28 sized images of handwritten digits from Kaggle's Digit Recognizer dataset i.e MNIST dataset
 
 I solved the problem and applied the optimization techniques in following ways : 
